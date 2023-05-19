@@ -18,7 +18,7 @@ const Inicio = () => {
                 En este tipo de regalos podemos reflejar un sello personal y único mediante un nombre,
                 fotografía, frase, dibujo, fecha, etc…
             </p>
-            <Footer/>
+            <Footer />
         </section>
     )
 }

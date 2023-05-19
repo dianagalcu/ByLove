@@ -5,7 +5,7 @@
     "descripcion": "Un suave peluche que representa el amor y la ternura.",
     "precio": 19.99,
     "categoria": "Peluches",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/pelucheamor.jpeg"
   },
   {
@@ -14,7 +14,7 @@
     "descripcion": "Un collar elegante con un colgante en forma de corazón, perfecto para regalar a alguien especial.",
     "precio": 29.99,
     "categoria": "Joyas",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/collar-corazon.jpeg"
   },
   {
@@ -23,7 +23,7 @@
     "descripcion": "Una tarjeta de felicitación con un mensaje de amor y gratitud para expresar tus sentimientos.",
     "precio": 4.99,
     "categoria": "Tarjetas",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/tarjeta-felicitacion.jpg"
   },
   {
@@ -32,7 +32,7 @@
     "descripcion": "Una vela aromática con fragancia relajante para crear un ambiente de calma y bienestar.",
     "precio": 12.99,
     "categoria": "Velas",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/vela-aromatica.jpg"
   },
   {
@@ -41,7 +41,7 @@
     "descripcion": "Un libro lleno de citas y mensajes inspiradores para alegrar el corazón y alimentar el alma.",
     "precio": 14.99,
     "categoria": "Libros",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/libro-inspirador.jpg"
   },
   {
@@ -50,7 +50,7 @@
     "descripcion": "Una exquisita selección de bombones finos para endulzar cualquier ocasión especial.",
     "precio": 9.99,
     "categoria": "Dulces",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/caja-bombones.jpg"
   },
   {
@@ -59,7 +59,7 @@
     "descripcion": "Una taza de cerámica con un mensaje motivador impreso, perfecta para disfrutar de tu bebida favorita.",
     "precio": 7.99,
     "categoria": "Tazas",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/taza-mensaje.jpeg"
   },
   {
@@ -68,7 +68,7 @@
     "descripcion": "Un difusor de aromas con aceites esenciales para crear un ambiente relajante y reconfortante.",
     "precio": 24.99,
     "categoria": "Aromaterapia",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/difusor-aromas.jpeg"
   },
   {
@@ -77,7 +77,7 @@
     "descripcion": "Una pulsera con dijes inspiradores para llevar contigo un recordatorio constante de tus metas y sueños.",
     "precio": 16.99,
     "categoria": "Joyas",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/pulsera-inspiracion.jpg"
   },
   {
@@ -86,7 +86,7 @@
     "descripcion": "Un cuaderno diseñado para practicar la gratitud diaria y enfocarse en lo positivo de la vida.",
     "precio": 11.99,
     "categoria": "Papelería",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/diario-gratitud.jpg"
   },
   {
@@ -95,7 +95,7 @@
     "descripcion": "Un cojín suave y reconfortante para abrazar en los momentos en que necesitas consuelo.",
     "precio": 18.99,
     "categoria": "Decoración",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/cojin-abrazo.jpg"
   },
   {
@@ -104,7 +104,7 @@
     "descripcion": "Una pulsera con hilos entrelazados que simboliza la amistad y la conexión especial entre personas.",
     "precio": 9.99,
     "categoria": "Joyas",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/pulsera-amistad.jpg"
   },
   {
@@ -113,7 +113,7 @@
     "descripcion": "Una libreta donde puedes plasmar tus pensamientos más íntimos y reflexiones personales.",
     "precio": 6.99,
     "categoria": "Papelería",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/libreta-pensamientos.jpeg"
   },
   {
@@ -122,7 +122,7 @@
     "descripcion": "Una figura decorativa que representa la resiliencia y la capacidad de superar los desafíos.",
     "precio": 29.99,
     "categoria": "Decoración",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/figura-resiliencia.jpeg"
   },
   {
@@ -131,7 +131,7 @@
     "descripcion": "Un juego de cartas con preguntas para reflexionar sobre la vida y descubrir nuevos aspectos de uno mismo.",
     "precio": 12.99,
     "categoria": "Juegos",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/cartas-reflexion.jpg"
   },
   {
@@ -140,7 +140,7 @@
     "descripcion": "Una lámpara de luz cálida que crea un ambiente acogedor y promueve la sensación de bienestar.",
     "precio": 34.99,
     "categoria": "Decoración",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/lampara-bienestar.jpg"
   },
   {
@@ -149,7 +149,7 @@
     "descripcion": "Un kit completo con productos para relajarse y consentirse, como sales de baño y una máscara para los ojos.",
     "precio": 27.99,
     "categoria": "Cuidado Personal",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/kit-relajacion.jpg"
   },
   {
@@ -158,7 +158,7 @@
     "descripcion": "Un collar con un colgante en forma de símbolo de infinito que representa la esperanza y la eternidad.",
     "precio": 22.99,
     "categoria": "Joyas",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/collar-hope.jpg"
   },
   {
@@ -167,7 +167,7 @@
     "descripcion": "Un cuadro decorativo con espacio para escribir las cosas por las que estás agradecido, recordándote la importancia de la gratitud.",
     "precio": 16.99,
     "categoria": "Decoración",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/cuadro-gratitud.png"
   },
   {
@@ -176,7 +176,7 @@
     "descripcion": "Un conjunto de velas aromáticas en diferentes fragancias para crear un ambiente relajante y aromático.",
     "precio": 19.99,
     "categoria": "Velas",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/set-velas.jpg"
   },
   {
@@ -185,7 +185,7 @@
     "descripcion": "Un juego de cartas diseñado para practicar la gratitud diaria y apreciar las pequeñas cosas de la vida.",
     "precio": 10.99,
     "categoria": "Juegos",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/cartas-gratitud.jpg"
   },
   {
@@ -194,7 +194,7 @@
     "descripcion": "Un par de pendientes con un diseño simbólico de esperanza y renacimiento.",
     "precio": 24.99,
     "categoria": "Joyas",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/pendientes-esperanza.jpg"
   },
   {
@@ -203,7 +203,7 @@
     "descripcion": "Una mascarilla facial con ingredientes naturales para relajar y revitalizar la piel.",
     "precio": 6.99,
     "categoria": "Cuidado Personal",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/mascaras-faciales.jpg"
   },
   {
@@ -212,7 +212,7 @@
     "descripcion": "Un póster con un mensaje motivador y un diseño atractivo para decorar cualquier espacio.",
     "precio": 11.99,
     "categoria": "Decoración",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/posters-motivacion.jpg"
   },
   {
@@ -221,7 +221,7 @@
     "descripcion": "Una caja de regalo con una selección de productos sorpresa que te harán sentir emociones positivas.",
     "precio": 29.99,
     "categoria": "Regalos",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/caja-sorpresa.jpeg"
   },
   {
@@ -230,7 +230,7 @@
     "descripcion": "Una lámina con una cita inspiradora y motivadora para decorar tu espacio y recordar tus metas.",
     "precio": 8.99,
     "categoria": "Decoración",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/lamina-inspiradora.jpg"
   },
   {
@@ -239,7 +239,7 @@
     "descripcion": "Una bolsa de tela ecológica y reutilizable con un diseño positivo y alentador.",
     "precio": 5.99,
     "categoria": "Accesorios",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/bolsa-tela.jpeg"
   },
   {
@@ -248,7 +248,7 @@
     "descripcion": "Una caja especial para guardar recuerdos y momentos preciosos que te hacen sentir feliz.",
     "precio": 17.99,
     "categoria": "Decoración",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/caja-recuerdos.jpeg"
   },
   {
@@ -257,7 +257,7 @@
     "descripcion": "Un llavero con un amuleto de la suerte para llevar contigo protección y buenas vibras.",
     "precio": 9.99,
     "categoria": "Accesorios",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/llavero.jpeg"
   },
   {
@@ -266,7 +266,7 @@
     "descripcion": "Un set de baño con sales, aceites y esponja para disfrutar de un momento de relajación y cuidado personal.",
     "precio": 24.99,
     "categoria": "Cuidado Personal",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/set-baño.jpeg"
   },
   {
@@ -275,7 +275,7 @@
     "descripcion": "Una pulsera con cuentas de colores que promueven la calma y la serenidad en momentos de estrés.",
     "precio": 12.99,
     "categoria": "Joyas",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/pulsera-calma.jpeg"
   },
   {
@@ -284,7 +284,7 @@
     "descripcion": "Un cojín ergonómico para meditar y practicar la atención plena, proporcionando comodidad y soporte.",
     "precio": 32.99,
     "categoria": "Cuidado Personal",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/cojin-meditacion.jpeg"
   },
   {
@@ -293,7 +293,7 @@
     "descripcion": "Un cuadro con una frase motivadora y colores vibrantes para inspirarte cada día.",
     "precio": 14.99,
     "categoria": "Decoración",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/cuadro-motivacion.jpg"
   },
   {
@@ -302,7 +302,7 @@
     "descripcion": "Una vela decorativa con un diseño elegante y aromas sutiles para ambientar cualquier espacio.",
     "precio": 10.99,
     "categoria": "Velas",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/vela-decorativa.jpeg"
   },
   {
@@ -311,7 +311,7 @@
     "descripcion": "Un bolígrafo con mensajes motivadores impresos para llenar tus escritos de positivismo y energía.",
     "precio": 4.99,
     "categoria": "Papelería",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/boligrafo.jpeg"
   },
   {
@@ -320,7 +320,7 @@
     "descripcion": "Un kit de arte terapia con lápices de colores y dibujos para relajarse y expresar emociones creativamente.",
     "precio": 18.99,
     "categoria": "Arte",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/kit-arte.jpeg"
   },
   {
@@ -329,7 +329,7 @@
     "descripcion": "Un reloj de arena que marca el tiempo de una sesión de relajación o meditación, ayudando a concentrarse en el momento presente.",
     "precio": 9.99,
     "categoria": "Decoración",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/reloj-arena.jpg"
   },
   {
@@ -338,7 +338,7 @@
     "descripcion": "Un espejo con mensajes positivos y de autoafirmación para recordarte lo maravilloso que eres.",
     "precio": 12.99,
     "categoria": "Decoración",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/espejo.jpeg"
   },
   {
@@ -347,7 +347,7 @@
     "descripcion": "Una taza de cerámica con un diseño alegre y una frase que te recuerda que la felicidad está en las pequeñas cosas.",
     "precio": 7.99,
     "categoria": "Tazas",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/taza-felicidad.jpeg"
   },
   {
@@ -356,7 +356,7 @@
     "descripcion": "Un llavero con un colgante inspirador para llevar contigo un recordatorio constante de tu fuerza y determinación.",
     "precio": 6.99,
     "categoria": "Accesorios",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/llavero-inspiracion.jpeg"
   },
   {
@@ -365,7 +365,7 @@
     "descripcion": "Un diario especial para escribir y analizar tus sueños, descubriendo mensajes y significados ocultos.",
     "precio": 13.99,
     "categoria": "Papelería",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/diario-sueños.jpeg"
   },
   {
@@ -374,7 +374,7 @@
     "descripcion": "Una caja con tarjetas de mantras positivos y poderosos para repetir y atraer energías positivas.",
     "precio": 8.99,
     "categoria": "Papelería",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/caja-mantras.jpeg"
   },
   {
@@ -383,7 +383,7 @@
     "descripcion": "Un cojín suave y reconfortante con un diseño que transmite paz y armonía.",
     "precio": 19.99,
     "categoria": "Decoración",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/cojin-paz.jpeg"
   },
   {
@@ -392,7 +392,7 @@
     "descripcion": "Un collar con un colgante que simboliza el equilibrio y la armonía en la vida.",
     "precio": 15.99,
     "categoria": "Joyas",
-    "disponible": true,
+    "disponible": "Agotado",
     "imagen": "./imagenes/collar-equilibrio.jpeg"
   },
   {
@@ -401,7 +401,7 @@
     "descripcion": "Un libro con técnicas y consejos prácticos para mejorar tu bienestar emocional y alcanzar tus metas.",
     "precio": 21.99,
     "categoria": "Libros",
-    "disponible": true,
+    "disponible":"Agotado",
     "imagen": "./imagenes/libro-autoayuda.jpeg"
   },
   {
@@ -410,7 +410,7 @@
     "descripcion": "Una vela especial para crear un ambiente tranquilo y propicio para la meditación y la relajación.",
     "precio": 11.99,
     "categoria": "Velas",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/vela-meditacion.jpeg"
   },
   {
@@ -419,7 +419,7 @@
     "descripcion": "Un bolso con un diseño inspirador y espacioso para llevar contigo todo lo que necesitas con estilo.",
     "precio": 28.99,
     "categoria": "Accesorios",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/bolso.jpeg"
   },
   {
@@ -428,7 +428,7 @@
     "descripcion": "Un set de pegatinas con frases motivadoras y diseños coloridos para alegrar tu día.",
     "precio": 5.99,
     "categoria": "Papelería",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/pegatinas.png"
   },
   {
@@ -437,7 +437,7 @@
     "descripcion": "Una figura decorativa con forma de símbolo de esperanza para recordarte la importancia de mantener la fe.",
     "precio": 16.99,
     "categoria": "Decoración",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/figura-esperanza.jpeg"
   },
   {
@@ -446,7 +446,7 @@
     "descripcion": "Un kit completo con una esterilla, bloques y una guía para practicar yoga en la comodidad de tu hogar.",
     "precio": 34.99,
     "categoria": "Fitness",
-    "disponible": true,
+    "disponible": "Disponible",
     "imagen": "./imagenes/kit-yoga.jpeg"
   }
 ]

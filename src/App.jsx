@@ -3,17 +3,16 @@ import Inicio from "./Inicio"
 import SeccionP from "./SeccionP"
 import Contactanos from "./Contactanos"
 
-
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Inicio/>
+    element: <Inicio />
   },
   {
     path: "/productos",
     element: <SeccionP />
   },
- 
+
   {
     path: "/contactanos",
     element: <Contactanos />

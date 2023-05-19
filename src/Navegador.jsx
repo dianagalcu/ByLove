@@ -1,4 +1,4 @@
-import {Link} from "react-router-dom"
+import { Link } from "react-router-dom"
 import logo from "../public/imagenes/logo.png"
 
 const Navegador = () => {
@@ -11,7 +11,7 @@ const Navegador = () => {
             <div className="nav-links">
                 <Link to={"/"}>Inicio</Link>
                 <Link to={"/productos"}>Productos</Link>
-                <Link to={"/contactanos"}>Contactanos</Link>
+                <Link to={"/contactanos"}>Contáctanos</Link>
             </div>
         </nav>
     )

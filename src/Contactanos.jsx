@@ -5,25 +5,24 @@ import Footer from './Footer'
 const Contactanos = () => {
     return (
         <section>
-            <Navegador/>
+            <Navegador />
             <h1>Contáctanos</h1>
             <div>
-                <p>Para mayor informacion de nuestra tienda puedes comunicarte al 3205678942 </p>
-                <form>
+                <form className='contenedorForm'>
                     <label htmlFor="">
-                        <input type="text" placeholder='Nombre' />
+                        <input className='formulario' type="text" placeholder='Nombre' />
                     </label>
                     <label htmlFor="">
-                        <input type="text" placeholder='Teléfono' />
+                        <input className='formulario' type="text" placeholder='Teléfono' />
                     </label>
                     <label htmlFor="">
-                        <input type="email" placeholder='Correo' />
+                        <input className='formulario' type="email" placeholder='Correo' />
                     </label>
-                    <textarea name="" id="" cols="30" rows="10" placeholder='Deja tu mensaje'></textarea>
-                    <button type='submit'>Enviar mensaje</button>
+                    <textarea className="mensaje" name="" id="" cols="30" rows="10" placeholder='Deja tu mensaje'></textarea>
+                    <button className='boton' type='submit'>Enviar</button>
                 </form>
             </div>
-            <Footer/>
+            <Footer />
         </section>
     )
 }
