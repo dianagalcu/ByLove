@@ -5,6 +5,10 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+    font-size: 18px;
+}
+
 #root {
     max-width: 1200px;
     margin: 0 auto;
@@ -15,10 +19,10 @@ h1 {
     margin: 40px 0;
 }
 
-p {
-    text-align: center;
-    margin-top: 20px;
+h1, h2 {
+    color:#1c95a3
 }
+
 
 .logo {
     width: 50%;
@@ -49,6 +53,10 @@ p {
     width: 100%;
 }
 
+.texto-principal {
+    margin-top: 2rem;
+}
+
 .cards-container {
     display: flex;
     flex-wrap: wrap;
@@ -73,12 +81,19 @@ p {
     object-fit: contain;
 }
 
+.precio {
+    font-weight: 800;
+    color: #1c95a3;
+    font-size: 22px;
+}
+
 footer {
     text-align: center;
     background-color: #1c95a3;
     padding: 10px 0;
     font-size: 16px;
     margin-top: 40px;
+    color: white;
 }
 
 .contenedorForm {
@@ -89,7 +104,7 @@ footer {
     align-items: center;
     padding: 20px 60px;
     width: 50%;
-
+    margin: 0 auto;
 }
 
 .formulario,
@@ -100,6 +115,7 @@ footer {
     border: 2px solid #b14c95;
     border-radius: 8px;
     width: 100%;
+    
 }
 
 label {
@@ -111,7 +127,11 @@ label {
     border: 1px solid #89cad1;
     border-radius: 4px;
     padding: 10px;
-    cursor: pointer
+    cursor: pointer;
+    width: 100%;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 800;
 }
 
 .boton:hover {

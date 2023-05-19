@@ -12,7 +12,6 @@ const SeccionP = () => {
             .catch((err) => {
                console.log(err)
             });
-        console.log(seccionP)
         }
     useEffect(()=>{ mostrarSeccionP()},[])
     return (
@@ -23,11 +22,11 @@ const SeccionP = () => {
              {seccionP.map((seccionP) => (
                  <article className="cards" key={seccionP.id}>
                     <img src={seccionP.imagen}/>
-                    <h1>{seccionP.nombre}</h1>
+                    <h2>{seccionP.nombre}</h2>
                     <p>{seccionP.descripcion}</p>
-                    <p>{seccionP.precio}</p>
-                    <p>{seccionP.categoria}</p>
-                    <p>{seccionP.disponible}</p>
+                    <p className="precio">${seccionP.precio}</p>
+                    <p><b>Categoría:</b> {seccionP.categoria}</p>
+                    <p><b>Estado:</b> {seccionP.disponible}</p>
                 </article>
             ))}
             </div>

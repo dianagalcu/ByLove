@@ -7,7 +7,7 @@ const Inicio = () => {
         <section>
             <Navegador />
             <img className='imgprincipal' src={imgPrincipal} />
-            <p>Regalar es un acto de generosidad y agradecimiento a otra persona como muestra
+            <p className='texto-principal'>Regalar es un acto de generosidad y agradecimiento a otra persona como muestra
                 de nuestro afecto y consideración. Pero el placer de regalar se eleva a la máxima
                 potencia cuando el detalle entregado es un regalo personalizado. La verdadera historia
                 de los regalos personalizados se remonta a miles de años atrás, pero su popularidad no
